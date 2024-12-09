@@ -16,7 +16,7 @@ Watch more Website Template in my Website.
 
 **Live Demo** - https://codecraft-beta.github.io/Mariachi-Food-Website/
 
-**Website View** - https://designcraft.odoo.com/netflix-clone
+**Website View** - 
 
 # CodeCraft-Beta
 
