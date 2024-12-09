@@ -51,5 +51,5 @@ Hello Everyone, My name is Abdullah Zaheer. I am making this Website Template. Y
 I am a Developer based in Multan, Pakistan. I am a Computer Science Undergraduate from Emerson University Multan. I am very passionate about improving my coding skills developing websites. I build WebApps and Websites using HTML, CSS, JS. Working for myself to improve my skills. Love to build Web clones.
 
 # Output
-![Image](https://github.com/CodeCraft-Beta/Hiking-Life/blob/main/Website%20Front%20Page%20.png?raw=true)
+![Image](https://github.com/CodeCraft-Beta/Mariachi-Food-Website/blob/main/Website%20Front%20Page.png?raw=true)
 
